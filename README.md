@@ -15,14 +15,11 @@
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,flask,django)](https://skillicons.dev)
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp)](https://skillicons.dev)
 
 ## 言語
 
@@ -30,7 +27,7 @@
   - ネイティブ
 - 英語
   - ニュージーランドに一年留学をしていた
-  - ビジネス英語
+  - 留学時アルバイトをしていたのでビジネス英語
 
 ## 強み
 
