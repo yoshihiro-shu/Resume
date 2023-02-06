@@ -60,7 +60,7 @@
 - Csrf Token Securityの新規開発と会員機能リプレイス開発に従事
 - 使用言語はGolangとNuxt.js
 
-#### リプレイス開発したソフトウェアのリプレイス作業(2022/06-2022/08)
+#### 自社製品のリリース作業(2022/06-2022/08)
 
 - Kubernetesを用いて、`ManegedCertificate`の開発（https通信を行うための、マネージド証明書の自動管理機能）
 - terraformとKubernetesを用いてリリース作業とドキュメント化
