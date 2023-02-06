@@ -19,7 +19,7 @@
 
 ### その他
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,linux,docker,kubernetes,gcp)](https://skillicons.dev)
 
 ## 言語
 
@@ -43,11 +43,13 @@
 
 #### 自社製品のリプレイス開発(2022/02-2022/05)
 
-- 職務内容の詳細を箇条書きでかく
+- 自社製品であるCMSのリプレイス開発に従事
+- 使用言語はGolangとNuxt.js
 
 #### リプレイス開発したソフトウェアのリリース作業(2022/06-2022/08)
 
-- 職務内容の詳細を箇条書きでかく
+- Kubernetesを用いて、`ManegedCertificate`の開発
+- terraformとKubernetesを用いてリリース作業とドキュメント化
 
 #### 自社製品のリプレイス開発(2022/09-2023/01)
 
