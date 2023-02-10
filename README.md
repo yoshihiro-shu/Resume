@@ -68,8 +68,7 @@
 
 - Kubernetesを用いて、`ManegedCertificate`の開発（https通信を行うための、マネージド証明書の自動管理機能）
 　　　　- 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
-　　　　- 従来のシステムではKustomizeによるマニフェストの管理を行なっていたが、新システムではhelmによるマニフェストの管理に移行した。
-　　　　- Values.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。
+　　　　- HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。
 - terraformとKubernetesを用いてリリース作業及びドキュメント化
   - アプリケーション
 
