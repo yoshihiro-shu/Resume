@@ -62,15 +62,15 @@
 - Csrf Token Securityの新規開発と会員機能リプレイス開発に従事
 - 使用言語はGolangとNuxt.js
 
+- Kubernetesを用いて、`ManegedCertificate`の開発（https通信を行うための、マネージド証明書の自動管理機能）
+  - 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
+  - HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。
+
 #### 自社製品のリリース作業(2022/06-2022/08)
 
 リプレイス開発したソフトウェアのリリース
 
-- Kubernetesを用いて、`ManegedCertificate`の開発（https通信を行うための、マネージド証明書の自動管理機能）
-  - 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
-  - HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。
-- terraformとKubernetesを用いてリリース作業及びドキュメント化
-  - アプリケーション
+- terraformとKubernetesを用いてリリース作業及びドキュメント化 
 
 #### 広告収益管理の自動化(2022/10-)
 
