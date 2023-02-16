@@ -15,7 +15,7 @@
 
 ### フレームワーク
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,flask,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,django)](https://skillicons.dev)
 
 ### その他
 
