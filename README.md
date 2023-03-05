@@ -82,14 +82,6 @@
 - 収益管理の自動ツールの開発・保守・運用
 
 使用技術
-- terraform
-- GCP
-  - Big Query
-  - Cloud Function
-  - GCS
-  - Alert Policy
-- Python
-  - Pandas
 
 |key|value|
 |---|-----|
