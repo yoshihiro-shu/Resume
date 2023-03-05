@@ -63,8 +63,8 @@
 - Csrf Token Securityの新規開発と会員機能リプレイス開発に従事
 
 - Kubernetesを用いて、`ManegedCertificate`の開発（https通信を行うための、マネージド証明書の自動管理機能）
-  - 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
-  - HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。
+<!--   - 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
+  - HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。 -->
 
 使用技術
 
