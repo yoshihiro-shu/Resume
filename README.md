@@ -91,6 +91,12 @@
 - Python
   - Pandas
 
+|key|value|
+|---|-----|
+|terraform||
+|GCP|Big Query, Cloud Function, GCS, Alert Policy|
+|Python|Pandas|
+
 #### ヘルプサービスの開発(2023/02-)
 
 社内システムのヘルプサービスの開発
