@@ -19,7 +19,7 @@
 
 ### その他
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,linux,docker,kubernetes,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,linux,docker,kubernetes,gcp)](https://skillicons.dev)
 
 ## 言語
 
