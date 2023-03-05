@@ -79,7 +79,7 @@
 |---|-----|
 |GCP|Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
 |terraform|GCPで使用されているサービスをterraformで実装|
-|K8S|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
+|Kubernates|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
 |CD|Argo CD|
 
 #### 3.広告収益管理の自動化(2022/10-)
