@@ -85,8 +85,8 @@
 
 |key|value|
 |---|-----|
-|terraform||
 |GCP|Big Query, Cloud Function, GCS, Alert Policy|
+|terraform|上記のGCPをterraformで実装|
 |Python|Pandas|
 
 #### ヘルプサービスの開発(2023/02-)
