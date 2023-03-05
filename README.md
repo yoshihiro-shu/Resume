@@ -84,7 +84,7 @@
 |Google Cloug Platform|GKE, Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
 |terraform|上記のGCPサービスの実装|
 |Kubernates|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
-|CI tool|GCP Cloud Build|
+|CI tool|GCP Cloud BuildによるDocker Imageの自動ビルド|
 |CD tool|Argo CD|
 
 #### 3.広告収益管理の自動化(2022/10-)
