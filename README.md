@@ -66,9 +66,7 @@
 <!--   - 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
   - HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。 -->
 
-使用技術
-
-|key|value|
+|使用技術||
 |---|-----|
 |Backend|Golang|
 |Frontend|NuxtJs|
@@ -80,9 +78,7 @@
 
 - terraformとKubernetesを用いてリリース作業及びドキュメント化 
 
-使用技術
-
-|key|value|
+|使用技術||
 |---|-----|
 |GCP|Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
 |terraform|GCPで使用されているサービスをterraformで実装|
@@ -97,9 +93,7 @@
 背景
 - 毎月実施しているメディアの広告収益の　管理の自動化
 
-使用技術
-
-|key|value|
+|使用技術||
 |---|-----|
 |Python|Pandas|
 |GCP|Big Query, Cloud Function, GCS, Alert Policy|
