@@ -73,6 +73,15 @@
 
 - terraformとKubernetesを用いてリリース作業及びドキュメント化 
 
+使用技術
+
+|key|value|
+|---|-----|
+|GCP||
+|terraform|上記のGCPをterraformで実装|
+|K8S|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
+|CD|Argo CD|
+
 #### 3.広告収益管理の自動化(2022/10-)
 
 収益管理の自動ツールの開発・保守・運用
