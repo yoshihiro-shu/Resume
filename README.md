@@ -77,8 +77,8 @@
 
 |key|value|
 |---|-----|
-|GCP||
-|terraform|上記のGCPをterraformで実装|
+|GCP|Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
+|terraform|GCPで使用されているサービスをterraformで実装|
 |K8S|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
 |CD|Argo CD|
 
@@ -94,7 +94,7 @@
 |key|value|
 |---|-----|
 |GCP|Big Query, Cloud Function, GCS, Alert Policy|
-|terraform|上記のGCPをterraformで実装|
+|terraform|GCPで使用されているサービスをterraformで実装|
 |Python|Pandas|
 
 #### ヘルプサービスの開発(2023/02-)
