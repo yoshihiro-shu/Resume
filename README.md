@@ -82,7 +82,7 @@
 |---|-----|
 |Amazon Web Service|Route53|
 |Google Cloug Platform|GKE, Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
-|terraform|GCPで使用されているサービスをterraformで実装|
+|terraform|上記のGCPサービスの実装|
 |Kubernates|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
 |CI tool|GCP Cloud Build|
 |CD tool|Argo CD|
@@ -98,7 +98,7 @@
 |---|-----|
 |Python|Pandas|
 |Google Cloug Platform|Big Query, Cloud Function, GCS, Alert Policy|
-|terraform|GCPで使用されているサービスをterraformで実装|
+|terraform|上記のGCPサービスの実装|
 |CI tool|GitHub Actionsによるterrformの自動化テスト|
 
 #### 4.ヘルプサービスの開発(2023/02-)
@@ -109,9 +109,11 @@
 
 |使用技術|使用サービス or フレームワーク|
 |---|-----|
+|CMS|[hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/)|
+|Amazon Web Service|Route53|
 |Google Cloug Platform|GKE, Load Balancer, Cloud Armor, Cloud Build|
-|terraform|GCPで使用されているサービスをterraformで実装|
-|CI tool|GitHub Actionsによるterrformの自動化テスト|
+|terraform|上記のGCPサービスの実装|
+|CI tool|GCP Cloud Buildによる、Docker Imageの自動ビルド|
 
 ### アイタックソリューションズ株式会社（バイト:2021/09-2022/01）
 
