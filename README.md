@@ -97,7 +97,7 @@
 |Python|Pandas|
 |GCP|Big Query, Cloud Function, GCS, Alert Policy|
 |terraform|GCPで使用されているサービスをterraformで実装|
-|CI tool|GitHub Actionsによる　terrformのテスト|
+|CI tool|GitHub Actionsによるterrformの自動化テスト|
 
 #### ヘルプサービスの開発(2023/02-)
 
