@@ -66,10 +66,10 @@
 <!--   - 既存のシステムにおいて証明書の管理を`cert-manager`で開発されていたものを、`ManegedCertificate`にリプレイス開発を行なった。
   - HelmのValues.yaml(設定ファイル)による柔軟なカスタマイズを行えるように開発した。 -->
 
-|使用技術||
+|使用技術|使用サービス or フレームワーク|
 |---|-----|
-|Backend|Golang|
-|Frontend|NuxtJs|
+|Golang|echo|
+|JavaScriot|NuxtJs|
 |Infrastructure|Docker, Kubernates, GCP|
 
 #### 2.自社製品のリリース作業(2022/06-2022/08)
@@ -78,9 +78,10 @@
 
 - terraformとKubernetesを用いてリリース作業及びドキュメント化 
 
-|使用技術||
+|使用技術|使用サービス or フレームワーク|
 |---|-----|
-|GCP|Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
+|Amazon Web Service|Route53|
+|Google Cloug Platform|GKE, Load Balancer, Cloud Armor, Cloud Storage, Static IPAddress, Uptime Checks, Alert Policy|
 |terraform|GCPで使用されているサービスをterraformで実装|
 |Kubernates|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
 |CI tool|GCP Cloud Build|
@@ -93,18 +94,24 @@
 背景
 - 毎月実施しているメディアの広告収益の　管理の自動化
 
-|使用技術||
+|使用技術|使用サービス or フレームワーク|
 |---|-----|
 |Python|Pandas|
-|GCP|Big Query, Cloud Function, GCS, Alert Policy|
+|Google Cloug Platform|Big Query, Cloud Function, GCS, Alert Policy|
 |terraform|GCPで使用されているサービスをterraformで実装|
 |CI tool|GitHub Actionsによるterrformの自動化テスト|
 
-#### ヘルプサービスの開発(2023/02-)
+#### 4.ヘルプサービスの開発(2023/02-)
 
 社内システムのヘルプサービスの開発
 
 - 要求定義、要件定義、システム設計、開発、保守運用まで担当
+
+|使用技術|使用サービス or フレームワーク|
+|---|-----|
+|Google Cloug Platform|GKE, Load Balancer, Cloud Armor, Cloud Build|
+|terraform|GCPで使用されているサービスをterraformで実装|
+|CI tool|GitHub Actionsによるterrformの自動化テスト|
 
 ### アイタックソリューションズ株式会社（バイト:2021/09-2022/01）
 
