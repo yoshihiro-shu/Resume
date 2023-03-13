@@ -100,6 +100,7 @@
 |Google Cloug Platform|Big Query, Cloud Function, GCS, Alert Policy|
 |terraform|上記のGCPサービスの実装|
 |CI tool|GitHub Actionsによるterrformの自動化テスト|
+|CD tool|Argo CD|
 
 #### 4.ヘルプサービスの開発(2023/02-)
 
