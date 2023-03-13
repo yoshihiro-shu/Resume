@@ -71,6 +71,8 @@
 |Golang|echo|
 |JavaScriot|NuxtJs|
 |Infrastructure|Docker, Kubernates, GCP|
+|CI tool|GitHub Actionによるビルドテスト|
+|CD tool|Argo CD|
 
 #### 2.自社製品のリリース作業(2022/06-2022/08)
 
