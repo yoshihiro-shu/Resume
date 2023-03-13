@@ -85,7 +85,6 @@
 |terraform|上記のGCPサービスの実装|
 |Kubernates|Ingress, Service, Deployment, ConfigMap, CronJob, Job, ManagedCertificate|
 |CI tool|GCP Cloud BuildによるDocker Imageの自動ビルド|
-|CD tool|Argo CD|
 
 #### 3.広告収益管理の自動化(2022/10-)
 
@@ -115,6 +114,7 @@
 |Google Cloug Platform|GKE, Load Balancer, Cloud Armor, Cloud Build|
 |terraform|上記のGCPサービスの実装|
 |CI tool|GCP Cloud Buildによる、Docker Imageの自動ビルド|
+|CD tool|Argo CD|
 
 ### アイタックソリューションズ株式会社（バイト:2021/09-2022/01）
 
