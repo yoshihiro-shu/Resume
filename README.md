@@ -69,7 +69,7 @@
 |使用技術|使用サービス or フレームワーク|
 |---|-----|
 |Golang|echo|
-|JavaScriot|NuxtJs|
+|JavaScript|NuxtJs|
 |Infrastructure|Docker, Kubernates, GCP|
 |CI tool|GitHub Actionによるビルドテスト|
 |CD tool|Argo CD|
@@ -125,6 +125,11 @@
 #### 混雑状況判定システム
 
 - 管理画面をPythonのDjangoを用いて実装
+
+|使用技術|使用サービス or フレームワーク|
+|---|-----|
+|Python3|Django RestFrameWork|
+|JavaScript|Vue.js|
 
 ## 課外活動
 
